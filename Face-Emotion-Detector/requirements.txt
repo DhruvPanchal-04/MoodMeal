@@ -1,4 +1,0 @@
-tensorflow==2.9.1
-numpy
-Pillow
-openai
