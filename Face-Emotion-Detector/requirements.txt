@@ -1,0 +1,5 @@
+tensorflow==2.9.1
+protobuf==3.19.6
+numpy
+Pillow
+openai
