@@ -1,3 +1,0 @@
-0 Happy
-1 Stress
-2 Bore
