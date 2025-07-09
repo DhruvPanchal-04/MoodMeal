@@ -1,6 +1,6 @@
 streamlit
 tensorflow==2.9.1
 protobuf==3.19.6
-numpy
+numpy==1.23.5
 Pillow
 openai
