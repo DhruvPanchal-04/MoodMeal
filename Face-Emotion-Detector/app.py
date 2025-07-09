@@ -5,7 +5,8 @@ from PIL import Image, ImageOps
 from openai import OpenAI
 
 # ✅ Replace with your GPT-4 API key
-client = OpenAI(api_key="")
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+
 
 # Load TFLite model
 interpreter = tf.lite.Interpreter(model_path="model_unquant.tflite")
